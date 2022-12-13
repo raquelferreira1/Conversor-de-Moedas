@@ -1,6 +1,7 @@
 <h1 align=center> CONVERSOR DE MOEDAS </h1>
 
-<p align=center> Nesse projeto pude consolidar conhecimentos em JavaScript, HTML e CSS. <a href="  "</a> 
+<p align=center> Nesse projeto pude consolidar os conceitos em lógica de programação, conhecimentos em JavaScript, HTML e CSS. <a href="https://raquelferreira1.github.io/Conversor-de-Moedas/"</a> 
+<br>
 Veja aqui como ficou :point_left: </p>
 
 <h3 align=center><b> :hammer_and_wrench:Tecnologias utilizadas: <br><br>
@@ -11,4 +12,5 @@ Veja aqui como ficou :point_left: </p>
   
 <img src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt=logo-javascript/> </b></h3>
 
+<br>
 <img src="https://github.com/raquelferreira1/Conversor-de-Moedas/blob/master/img/print-tela.png?raw=true">
