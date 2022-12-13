@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    line-height: 18px;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: url(./img/INVESTIMENTO.jpg) no-repeat bottom center scroll;
+}
+
+header {
+    background-color: #1B83E2;
+    height: 66px;
+}
+
+.container {
+    width: 375px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: #0E0E0E;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 24px;
+    text-align: center;
+    color: #F4F4F4;
+    padding-top: 25px;
+}
+
+main {
+    padding: 24px;
+}
+
+label {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+select {
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px;
+    height: 48px;
+    display: block;
+    width: 100%;
+    cursor: pointer;
+    outline: none;
+    appearance: none;
+    padding-left: 16px;
+    box-shadow: 2px 2px 5px #0E0E0E;
+    margin-top: 6px;
+    margin-bottom: 24px;
+}
+
+input {
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px;
+    height: 48px;
+    display: block;
+    width: 100%;
+    outline: none;
+    padding-left: 16px;
+    box-shadow: 2px 2px 5px #0E0E0E;
+    font-size: 18px;
+}
+
+button {
+    background: #1B83E2;
+    border-radius: 25px;
+    height: 48px;
+    width: 100%;
+    cursor: pointer;
+    color: #F4F4F4;
+    font-weight: 700;
+    font-size: 16px;
+    border: none;
+    margin-top: 24px;
+    margin-bottom: 36px;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+button:active {
+    opacity: 0.7;
+}
+
+section {
+    border: 1px solid #1B83E2;
+    border-radius: 4px;
+}
+
+.currency-container {
+    text-align: center;
+    padding: 10px;
+}
+
+.currency-name {
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.currency-value {
+    color: #1B83E2;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.arrow-img {
+    display: block;
+    margin: 15px auto;
+}
