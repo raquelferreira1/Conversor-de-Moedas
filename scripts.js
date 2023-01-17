@@ -1,8 +1,8 @@
 const button = document.getElementById('botão-conversão') //peguei o click do botão 'converter'
 const select = document.getElementById('conversor-select')
 
-const dolar = 5.32 // valor atual do dólar
-const euro = 5.65
+const dolar = 5.11
+const euro = 5.51
 const bitcoin = 0000011
 
 const convertValues = () => {
