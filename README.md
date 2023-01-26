@@ -2,7 +2,7 @@
 
 <h4 align=center> Nesse projeto pude consolidar os conceitos em lógica de programação, conhecimentos em JavaScript, HTML e CSS. <a href="https://raquelferreira1.github.io/Conversor-de-Moedas/"</a> 
 <br>
-Veja aqui como ficou :point_left: </p>
+Veja aqui como ficou :point_left: </h4>
 
 <h3 align=center><b> :hammer_and_wrench:Tecnologias utilizadas: <br><br>
 
