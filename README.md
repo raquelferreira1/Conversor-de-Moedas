@@ -14,7 +14,7 @@ Conversor de moedas de Real para Dólar, Euro e Bitcoin.
 
 - Responsivo para computador / celular;
 - HTML Semântico;
-- Consome a API: https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL](https://docs.awesomeapi.com.br/api-de-moedas)
+- Consome a API: https://docs.awesomeapi.com.br/api-de-moedas
 
 > Para ver o projeto on-line clique **[AQUI](https://raquelferreira1.github.io/Conversor-de-Moedas/)**
 
